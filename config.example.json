@@ -1,0 +1,22 @@
+{
+    "settings": {
+        "privateWorld": "fortera-global",
+        "secondsToGain": 3600,
+        "secondsPoollingTime": 320, 
+        "pointsToGain": 10,
+        "searchByGame": "tibia",
+        "channels": [
+            "nattank",
+            "horadoruush",
+            "baloth_",
+            "eowiix"
+        ]
+    },
+    "tokens":{
+        "twitch": "8hpijtqsoexg9yepbs9m9xm3cfgpor",
+        "thisApp": "b8931306-a7c0-4646-a67a-e337b5cdb48d"
+    },
+    "urls":{
+        "api": "https://fortera-global.net/api/addPoints.php"
+    }
+}
